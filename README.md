@@ -1,2 +1,11 @@
 # nodetypescript-classes-kennel
-First project studying in practice the backend of a website with the application of MVC software design pattern.
+Projeto do back-end de um site como a aplicação do padrão de arquitetura de software MVC.
+
+### Pré-requisitos Globais:
+`npm i -g nodemon typescript ts-node`
+
+### Instalação:
+`npm install`
+
+### Para rodar o Projeto:
+`npm run start-dev`
